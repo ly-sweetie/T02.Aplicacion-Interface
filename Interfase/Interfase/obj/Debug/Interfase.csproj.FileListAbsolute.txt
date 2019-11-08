@@ -1,0 +1,7 @@
+C:\Users\lyss_\source\repos\Interfase\Interfase\obj\Debug\Interfase.csprojAssemblyReference.cache
+C:\Users\lyss_\source\repos\Interfase\Interfase\obj\Debug\Interfase.csproj.CoreCompileInputs.cache
+C:\Users\lyss_\source\repos\Interfase\Interfase\bin\Debug\Interfase.exe.config
+C:\Users\lyss_\source\repos\Interfase\Interfase\bin\Debug\Interfase.exe
+C:\Users\lyss_\source\repos\Interfase\Interfase\bin\Debug\Interfase.pdb
+C:\Users\lyss_\source\repos\Interfase\Interfase\obj\Debug\Interfase.exe
+C:\Users\lyss_\source\repos\Interfase\Interfase\obj\Debug\Interfase.pdb
